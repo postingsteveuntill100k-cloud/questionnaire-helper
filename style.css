@@ -2,3 +2,5 @@
 .upload{display:flex;align-items:center;gap:10px;border:1px solid #c9d9ce;border-radius:7px;background:white;padding:7px 12px}.upload input{width:auto;max-width:220px;margin:0;padding:3px;border:0;font-size:.8rem}
 
 select{display:block;width:100%;margin:8px 0 16px;padding:12px;border:1px solid #c9d8ce;border-radius:6px;background:#fff;font:inherit}
+
+.contact{padding:40px;border-radius:12px;background:#e5eee8;margin-bottom:60px}.contact p:not(.eyebrow){color:#52675e;line-height:1.6;max-width:650px}.contact .contact-note{font-size:.86rem}.contact .button{margin-top:4px}
